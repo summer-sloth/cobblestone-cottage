@@ -1,0 +1,193 @@
+{
+  "source_commit": "dcf55c1080ede5534009e7484bff44c33c76fa7c",
+  "website_files": {
+    "app.js": {
+      "bytes": 34325,
+      "sha256": "2b5dc0bc8b39889ca9d7a8ee54af179772ca6552355011000be632e8c71bfc47"
+    },
+    "assets/aerial-setting.webp": {
+      "bytes": 201826,
+      "sha256": "1c37afaede3afe68778080e447acf141783104eb90e1fba66e49c7b70c68b75f"
+    },
+    "assets/apple-touch-icon.png": {
+      "bytes": 7360,
+      "sha256": "dd5e58ca3bff9c98cde01d35b18c96e990c3e6b37b9f3d7ece58b4e0131dd0a9"
+    },
+    "assets/brands/airbnb.png": {
+      "bytes": 27943,
+      "sha256": "23c872d6c748b0ff3a1691a39d2856e049325ffc0a1e07beed353673ced6d2f2"
+    },
+    "assets/brands/booking.png": {
+      "bytes": 10566,
+      "sha256": "d68f8260cad49b7dbf3dd6d57ab763888391f0c0bbeb01620d1a554cc681d3cf"
+    },
+    "assets/brands/goibibo.png": {
+      "bytes": 13646,
+      "sha256": "e87702832cf252b44e1643116825434372bc8b2c980569553f5ad1ad47dcefc6"
+    },
+    "assets/brands/google.png": {
+      "bytes": 3428,
+      "sha256": "5b95eed86b7603081f22edd5da01de4c028b118b20885793b9b3ad5f6cbe1e71"
+    },
+    "assets/brands/mmt.png": {
+      "bytes": 17220,
+      "sha256": "846cfe1f4dce4c7502bdce908764246632c228d1275a1cb98682d10b7bbbee37"
+    },
+    "assets/cobblestone-drone-0232-0233.mp4": {
+      "bytes": 5810581,
+      "sha256": "57069d857e6aad8909fea934910665d836ab020e3f14fa8c7fa58c93923408e8"
+    },
+    "assets/cobblestone-icon.png": {
+      "bytes": 26248,
+      "sha256": "7e25924daa2c42a344005972fb4e8e729d60e3858c80ed45e6d380a3fd5158ba"
+    },
+    "assets/cobblestone-icon.svg": {
+      "bytes": 1441,
+      "sha256": "5110685c80b873be8876063d3f490390392e6c31740e63f3e1ad0b3c6b0659bb"
+    },
+    "assets/drone-opening-0232.webp": {
+      "bytes": 570320,
+      "sha256": "396e89188a89353a77f67b7701ff8528b5883b36c075e933f0f2a5dd1057d304"
+    },
+    "assets/favicon-32.png": {
+      "bytes": 1167,
+      "sha256": "3c66367ea52f6616abfd5c41db8d42bdb8b677563db45fb13f06d353d8b7f89c"
+    },
+    "assets/font-0.woff2": {
+      "bytes": 58796,
+      "sha256": "c3143e923ed1ca7bdf27f96c351fbafaebcbd3cf3f4c2d30d03e6c7f98e73d7a"
+    },
+    "assets/font-1.woff2": {
+      "bytes": 58936,
+      "sha256": "d6ff7726ec21576cf2fdac55080b2d43832780fa981f03f0b66d2723a7c1ea09"
+    },
+    "assets/font-2.woff2": {
+      "bytes": 58936,
+      "sha256": "a63c8d75600a2d42e0e152e4c4810474a90a0b93206f47530a741dbb78a9e571"
+    },
+    "assets/font-3.woff2": {
+      "bytes": 110816,
+      "sha256": "6021680663c58b344d8404c289c755aadc662a02189ffe4f5ca79378f9e97840"
+    },
+    "assets/font-4.woff2": {
+      "bytes": 111168,
+      "sha256": "ef1515fa19156794b36e5f362c677f78837c38ccdd6fa1fa76d1dd918ea7abbe"
+    },
+    "assets/font-5.woff2": {
+      "bytes": 123240,
+      "sha256": "1609a54fa3ad1abc8d0037132f73700333241ea0b65672079998e352f151dea7"
+    },
+    "assets/font-6.woff2": {
+      "bytes": 123608,
+      "sha256": "b60ffb0ee2b4e09d71d67ff3ea16d6a23cf2e0cf637c5f4e36fff2e3b1465252"
+    },
+    "assets/font-7.woff2": {
+      "bytes": 123672,
+      "sha256": "8ab6a1db2d7caeb46c742371da500d0f3de1dc6ec6bea2aef0106f678d7a1f8d"
+    },
+    "assets/fonts-ml.css": {
+      "bytes": 909,
+      "sha256": "38a31d043ddaa1461a898e893fdc20734a85e7300e73a86a9b9a271b7cc01fa3"
+    },
+    "assets/fonts.css": {
+      "bytes": 1236,
+      "sha256": "5d9ed134a7650065643d1c6d3f2a57a4f51247cd48d44fa2e28d4893b1579bed"
+    },
+    "assets/grove-0.webp": {
+      "bytes": 199052,
+      "sha256": "f33382bdaaf3533eebc2ae5cc2ffdf4182419419cf5166d2c17743dad627d79c"
+    },
+    "assets/grove-1.webp": {
+      "bytes": 33072,
+      "sha256": "f6a68dac7b24cc4acb0ec1d0c97af62b6e289660eb6da5fb0c4aad4a3a69be9c"
+    },
+    "assets/grove-2.webp": {
+      "bytes": 39104,
+      "sha256": "05539ed8df8e868f88565fa4f5cae44e8680beda26d629734239853636290f49"
+    },
+    "assets/grove-3.webp": {
+      "bytes": 62370,
+      "sha256": "c13fce0dde6a7c240784d7ac36cabba1d83b9c8c0b4434eac1ff9d3ad0c15a26"
+    },
+    "assets/grove-4.webp": {
+      "bytes": 208484,
+      "sha256": "c925f00a9cc0ccf47b8a3a43dc7eba83a37a6a8f45c81bf67307a3ea66647320"
+    },
+    "assets/grove-icon.svg": {
+      "bytes": 836,
+      "sha256": "2ba37960cfbf62d93d425563553cf5c33ddaeb93d48acb0fd71b6adcbe71edcc"
+    },
+    "assets/malayalam-0.woff2": {
+      "bytes": 105608,
+      "sha256": "d069babb32b90efb3a33302cbbd25ffef95fe9b7652fe608da41fe47b0538af4"
+    },
+    "assets/malayalam-1.woff2": {
+      "bytes": 105648,
+      "sha256": "251ea386da814d508dd00b22c50f1a3b2a7e9c4f6b95006854002731dd063c7d"
+    },
+    "assets/malayalam-2.woff2": {
+      "bytes": 105672,
+      "sha256": "fa61f757a1de1dae02f9b76410cef62cb1fedd069ad6b6cdc7b04540b209162a"
+    },
+    "assets/malayalam-3.woff2": {
+      "bytes": 104324,
+      "sha256": "f3bd7d9f65bad43ae0913d7d685a167804b0b9992f70dc7d784a005eae586026"
+    },
+    "assets/malayalam-4.woff2": {
+      "bytes": 104432,
+      "sha256": "68110aadf0a414e6931cd003e2389fad52a2cd1290c3eca6dec57f9d4b863d33"
+    },
+    "assets/mark.svg": {
+      "bytes": 1441,
+      "sha256": "5110685c80b873be8876063d3f490390392e6c31740e63f3e1ad0b3c6b0659bb"
+    },
+    "assets/suite-balcony.webp": {
+      "bytes": 106426,
+      "sha256": "250cab8513a16c8ef5e3b2322711dd8a0eacf75e474e765c636bfad6b5dd69c4"
+    },
+    "assets/suite-bathroom.webp": {
+      "bytes": 109610,
+      "sha256": "6de18c751c7881e3de84632ec2ec2440b9534644b547cce50d1b0428354c5736"
+    },
+    "assets/suite-bedroom.webp": {
+      "bytes": 119414,
+      "sha256": "e76d37ee087e1bb09f2508ea2e37f44206622ae06a9eb1bff4bb2ba78dad3f51"
+    },
+    "assets/suite-drone.webp": {
+      "bytes": 364902,
+      "sha256": "0b01c9152e07ae50cfd633453f28df502524bc1cac36c6a522a0e5476a5d1b99"
+    },
+    "assets/suite-exterior.webp": {
+      "bytes": 411966,
+      "sha256": "3304821703c2713cc73610ab33d83e1764b941eb961ca2210133542d2981b831"
+    },
+    "assets/suite-icon.svg": {
+      "bytes": 794,
+      "sha256": "538f57dde6e3d2b9edf5f1c752d2c4de065b0590b5c5ebd08837725c0d85edb7"
+    },
+    "assets/suite-kitchen.webp": {
+      "bytes": 77382,
+      "sha256": "1a989f6f5ecc31b40b669ecbd3b17f1b10a9222cff890b7634a35a343f563286"
+    },
+    "assets/suite-parking.webp": {
+      "bytes": 258188,
+      "sha256": "ac40275a0a3b95e6f11197077c3b895f073225f8f8be203b9866c58745b2f0ce"
+    },
+    "i18n.js": {
+      "bytes": 60432,
+      "sha256": "b44464bc442e0401a3b6078c9070becaf0747ad1569113eb1b65e525de191929"
+    },
+    "index.html": {
+      "bytes": 19557,
+      "sha256": "4cb4b1b6c0c717531faa57ad0ba9331ed63b01b4d37660db69de4541031dee32"
+    },
+    "robots.txt": {
+      "bytes": 26,
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    },
+    "style.css": {
+      "bytes": 48670,
+      "sha256": "9a0324c0cb294b0bddcc06e6affa3afa257795af753fce62f63329e88f22628e"
+    }
+  }
+}

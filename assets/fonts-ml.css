@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Noto Sans Malayalam';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(malayalam-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Malayalam';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(malayalam-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Malayalam';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(malayalam-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif Malayalam';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(malayalam-3.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif Malayalam';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(malayalam-4.woff2) format('truetype');
+}

@@ -97,7 +97,7 @@ const propertyAmenities={
     ['Family','chat',[[ 'Window guards'],['Board games']]],
     ['Heating and cooling','sun',[[ 'AC – split-type ductless system'],['Ceiling fan'],['Heating']]],
     ['Home safety','chat',[[ 'Exterior security cameras','Entrance, parking and outdoor areas covered by 24/7 CCTV'],['First aid kit']]],
-    ['Internet and office','wifi',[[ 'Wifi – 7 Mbps','Speed verified on Airbnb'],['Dedicated workspace']]],
+    ['Internet and office','wifi',[[ 'Wifi – 79 Mbps','Speed verified on Airbnb'],['Dedicated workspace']]],
     ['Kitchen and dining','kitchen',[[ 'Kitchen','Guests can cook their own meals'],['Fridge'],['Microwave'],['Cooking basics','Pots and pans, oil, salt and pepper'],['Crockery and cutlery','Plates, bowls, cups, cutlery and utensils'],['Freezer'],['Kettle'],['Dining table']]],
     ['Outdoor','leaf',[[ 'Patio or balcony'],['Shared back garden']]],
     ['Parking and facilities','car',[[ 'Free residential garage – 1 space','On premises, with controlled access and security'],['Gated community'],['Recycling']]],
